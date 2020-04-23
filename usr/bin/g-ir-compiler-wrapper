@@ -1,0 +1,2 @@
+#!/bin/sh
+/home/bamboo/build/4.9.51-8mq-ga/fsl-imx-xwayland/temp_build_dir/build_fsl-imx-xwayland/tmp/sysroots/imx8mqevk/usr/bin/g-ir-scanner-qemuwrapper /home/bamboo/build/4.9.51-8mq-ga/fsl-imx-xwayland/temp_build_dir/build_fsl-imx-xwayland/tmp/sysroots/imx8mqevk/usr/bin/g-ir-compiler "$@"

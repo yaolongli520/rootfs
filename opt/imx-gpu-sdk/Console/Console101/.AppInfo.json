@@ -1,0 +1,38 @@
+{
+  "PlatformName": "Yocto",
+  "ResolvedPackageList": {
+    "Console.Console101": {
+      "AllRequirements": [],
+      "GeneratorReport": {
+        "ExecutableReport": {
+          "EnvironmentVariableResolveMethod": 0,
+          "ExeFormatString": "Console101${FSLGEN_GENERATOR_ExeFileExtension}",
+          "UseAsRelative": false
+        },
+        "VariableReport": {
+          "DefaultOptions": {
+            "config": 1
+          },
+          "VariableReportList": [
+            {
+              "Name": "config",
+              "Options": [
+                "Debug",
+                "Release"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSLGEN_GENERATOR_ExeFileExtension",
+              "Options": [
+                "_d",
+                ""
+              ]
+            }
+          ]
+        }
+      },
+      "Type": "Executable"
+    }
+  }
+}

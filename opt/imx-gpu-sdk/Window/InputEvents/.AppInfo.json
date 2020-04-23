@@ -1,0 +1,46 @@
+{
+  "PlatformName": "Yocto",
+  "ResolvedPackageList": {
+    "Window.InputEvents": {
+      "AllRequirements": [],
+      "GeneratorReport": {
+        "ExecutableReport": {
+          "EnvironmentVariableResolveMethod": 0,
+          "ExeFormatString": "InputEvents_${WindowSystem}${FSLGEN_GENERATOR_ExeFileExtension}",
+          "UseAsRelative": false
+        },
+        "VariableReport": {
+          "DefaultOptions": {
+            "config": 1
+          },
+          "VariableReportList": [
+            {
+              "Name": "config",
+              "Options": [
+                "Debug",
+                "Release"
+              ]
+            },
+            {
+              "Name": "WindowSystem",
+              "Options": [
+                "FB",
+                "Wayland",
+                "X11"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSLGEN_GENERATOR_ExeFileExtension",
+              "Options": [
+                "_d",
+                ""
+              ]
+            }
+          ]
+        }
+      },
+      "Type": "Executable"
+    }
+  }
+}

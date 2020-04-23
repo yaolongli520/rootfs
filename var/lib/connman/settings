@@ -1,0 +1,6 @@
+[global]
+OfflineMode=false
+
+[WiFi]
+Enable=false
+Tethering=false

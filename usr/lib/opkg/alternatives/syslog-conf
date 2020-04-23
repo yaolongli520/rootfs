@@ -1,0 +1,3 @@
+/etc/syslog.conf
+/etc/syslog.conf.busybox 50
+/etc/syslog.conf.sysklogd 10

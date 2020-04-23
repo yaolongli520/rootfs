@@ -1,0 +1,2 @@
+#!/bin/sh
+prelink-rtld --root=/home/bamboo/build/4.9.51-8mq-ga/fsl-imx-xwayland/temp_build_dir/build_fsl-imx-xwayland/tmp/sysroots/imx8mqevk "$@"

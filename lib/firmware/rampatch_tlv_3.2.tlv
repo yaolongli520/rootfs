@@ -1,0 +1,1 @@
+qca/rampatch_00130302.bin

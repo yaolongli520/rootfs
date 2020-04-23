@@ -1,0 +1,13 @@
+aarch64-poky-linux
+imx8mqevk-.*-linux.*
+
+aarch64_mx8mq-.*-linux.*
+
+aarch64-.*-linux.*
+
+noarch-.*-linux.*
+
+any-.*-linux.*
+
+all-.*-linux.*
+
